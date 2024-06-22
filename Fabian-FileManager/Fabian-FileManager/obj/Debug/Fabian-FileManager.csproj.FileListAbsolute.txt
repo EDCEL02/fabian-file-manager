@@ -1,0 +1,10 @@
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\bin\Debug\Fabian-FileManager.exe.config
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\bin\Debug\Fabian-FileManager.exe
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\bin\Debug\Fabian-FileManager.pdb
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian-FileManager.csproj.AssemblyReference.cache
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian_FileManager.Form1.resources
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian_FileManager.Properties.Resources.resources
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian-FileManager.csproj.GenerateResource.cache
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian-FileManager.csproj.CoreCompileInputs.cache
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian-FileManager.exe
+C:\Users\EDCEL\source\repos\Fabian-FileManager\Fabian-FileManager\obj\Debug\Fabian-FileManager.pdb
